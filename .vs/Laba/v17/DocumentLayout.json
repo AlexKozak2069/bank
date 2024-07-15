@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kozak\\source\\repos\\Laba\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93961AE2-ED1E-41E5-B813-1B95E30A7732}|Laba.vcxproj|C:\\Users\\kozak\\source\\repos\\Laba\\Laba.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93961AE2-ED1E-41E5-B813-1B95E30A7732}|Laba.vcxproj|solutionrelative:Laba.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{a0550017-e1d7-4d15-bb20-88380d43322b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{a0550017-e1d7-4d15-bb20-88380d43322b}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Laba.cpp",
+              "DocumentMoniker": "C:\\Users\\kozak\\source\\repos\\Laba\\Laba.cpp",
+              "RelativeDocumentMoniker": "Laba.cpp",
+              "ToolTip": "C:\\Users\\kozak\\source\\repos\\Laba\\Laba.cpp",
+              "RelativeToolTip": "Laba.cpp",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-20T13:49:49.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
